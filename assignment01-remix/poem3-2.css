@@ -1,0 +1,36 @@
+* {
+  font-family: 'IM Fell English', serif;
+  word-spacing: 1px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.p-left {
+  display: block;
+  text-align: left;
+  margin-left: 20%;
+}
+
+.p-right {
+  display: block;
+  text-align: right;
+  margin-right: 20%;
+}
+
+.lady {
+  display: block;
+  text-align: left;
+  margin-left: 20%;
+}
+
+.lancelot {
+  display: block;
+  text-align: right;
+  margin-right: 20%;
+}
+
+q, blockquote {
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}

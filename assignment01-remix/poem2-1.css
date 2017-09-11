@@ -1,0 +1,16 @@
+* {
+  font-family: 'IM Fell English', serif;
+  word-spacing: 1px;
+}
+
+.verbs {
+  display: none;
+}
+
+/*.verbs {*/
+/*  visibility: hidden;*/
+/*}*/
+
+q, blockquote {
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}

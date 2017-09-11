@@ -1,0 +1,29 @@
+* {
+  font-family: 'IM Fell English', serif;
+  word-spacing: 1px;
+}
+
+table {
+  width: 50%;
+}
+
+td {
+  text-align: left;
+  vertical-align: top;
+}
+
+#first-stanza {
+  padding: 0em;
+}
+
+#second-stanza {
+  padding: 10em 0em 0em 0em;
+}
+
+#third-stanza {
+  padding: 20em 0em 0em 0em;
+}
+
+q, blockquote {
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}

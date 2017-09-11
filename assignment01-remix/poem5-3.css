@@ -1,0 +1,15 @@
+* {
+  font-family: 'IM Fell English', serif;
+  word-spacing: 1px;
+}
+
+.noun {
+  border: 1px solid;
+  border-radius: 10%;
+  border-left-width: 5px;
+  border-right-width: 5px;
+}
+
+q, blockquote {
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}

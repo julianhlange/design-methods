@@ -1,0 +1,19 @@
+* {
+  font-family: 'IM Fell English', serif;
+  word-spacing: 1px;
+  line-height: 1em;
+  color: transparent;
+  text-shadow: 0 0 0.3em rgba(0,0,0,0.9);
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 1.1em;  
+}
+
+q, blockquote {
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}

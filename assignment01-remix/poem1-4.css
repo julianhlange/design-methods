@@ -1,0 +1,53 @@
+@font-face {font-family: "Braille";
+  src:url("fonts/Braille_Normal/BRAILLE1.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "Braille";
+  font-size: 170%;
+}
+
+p {
+  font-family: "Braille";
+  font-size: 100%;
+  line-height: 110%;
+}
+
+
+/**************************************************************/
+/* other fonts tested: */
+
+/*@font-face {font-family: "Braille";*/
+/*          src:url("fonts/philing_braille-normal/BRAILLE1.ttf") format("truetype");*/
+/*        font-weight: normal;*/
+/*        font-style: normal;*/
+/*}*/
+
+/*@font-face {font-family: "Braille";*/
+/*          src:url("fonts/Braille-Regular/Braille-Regular.ttf") format("truetype");*/
+/*        font-weight: normal;*/
+/*        font-style: normal;*/
+/*}*/
+
+/*@font-face {font-family: "Braille";*/
+/*          src:url("fonts/ce-al_braille/braille.ttf") format("truetype");*/
+/*        font-weight: normal;*/
+/*        font-style: normal;*/
+/*}*/
+
+/*@font-face {font-family: "Braille";*/
+/*          src:url("fonts/braille_altend/braille.ttf") format("truetype");*/
+/*        font-weight: normal;*/
+/*        font-style: normal;*/
+/*}*/
+
+/*@font-face {font-family: "Braille";*/
+/*          src:url("fonts/Braille_Normal/BRAILLE1.eot?") format("eot"),*/
+/*            url("fonts/Braille_Normal/BRAILLE1.woff") format("woff"),*/
+/*            url("fonts/Braille_Normal/BRAILLE1.ttf") format("truetype"),*/
+/*            url("fonts/Braille_Normal/BRAILLE1.svg#BrailleNormal") format("svg");*/
+/*        font-weight: normal;*/
+/*        font-style: normal;*/
+/*}*/

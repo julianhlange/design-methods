@@ -1,0 +1,36 @@
+* {
+  font-family: 'IM Fell English', serif;
+  word-spacing: 1px;
+}
+
+#by {
+    font-size: smaller;
+    font-style: italic;
+}
+
+#author {
+    font-size: smaller;
+}
+
+#larger {
+  font-size: larger;
+  font-style: oblique;
+}
+
+#painting {
+  font-style: italic;
+}
+
+img {
+  width: 35%;
+  float: right;
+  margin-right: 15%;
+}
+
+.poem {
+    margin-left: 5em;
+}
+
+q, blockquote {
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}

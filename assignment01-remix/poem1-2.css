@@ -1,0 +1,20 @@
+@font-face {font-family: "Disney";
+    src:url("fonts/538fonts_new-waltograph/New Walt Disney.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+h2 {
+  font-family: "Disney";
+  font-size: 200%;
+}
+
+p {
+  font-family: "Disney";
+  font-size: 125%;
+  line-height: 80%;
+}
+
+q, blockquote {
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}

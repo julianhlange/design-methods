@@ -1,0 +1,69 @@
+@font-face {font-family: "OldEnglish";
+    src:url("fonts/perry_gothic/PERRYGOT.TTF") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+h2, p {
+  font-family: "OldEnglish";
+  font-size: 130%;
+  line-height: 130%;
+}
+
+p {
+  font-size: 80%;
+}
+
+p::first-letter {
+  font-size: 180%;
+}
+
+q, blockquote {
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+
+/**************************************************************/
+/* other fonts tested: */
+
+/*@font-face {font-family: "OldEnglish";*/
+/*          src:url("fonts/Canterbury/Canterbury.ttf") format("truetype");*/
+/*        font-weight: normal;*/
+/*        font-style: normal;*/
+/*}*/
+
+/*@font-face {font-family: "OldEnglish";*/
+/*          src:url("fonts/AnglicanText/AnglicanText.ttf") format("truetype");*/
+/*        font-weight: normal;*/
+/*        font-style: normal;*/
+/*}*/
+
+/*@font-face {font-family: "OldEnglish";*/
+/*          src:url("fonts/Olde-English-Regular/Olde-English-Regular.ttf") format("truetype");*/
+/*        font-weight: normal;*/
+/*        font-style: normal;*/
+/*}*/
+
+/*@font-face {font-family: "OldEnglish";*/
+/*          src:url("fonts/cardinal/Cardinal.ttf") format("truetype");*/
+/*        font-weight: normal;*/
+/*        font-style: normal;*/
+/*}*/
+
+/*@font-face {font-family: "OldEnglish";*/
+/*          src:url("fonts/goudy_medieval/Goudy-Mediaeval-Regular.ttf") format("truetype");*/
+/*        font-weight: normal;*/
+/*        font-style: normal;*/
+/*}*/
+
+/*@font-face {font-family: "OldEnglish";*/
+/*          src:url("fonts/Prince-Valiant/Prince-Valiant.ttf") format("truetype");*/
+/*        font-weight: normal;*/
+/*        font-style: normal;*/
+/*}*/
+
+/*@font-face {font-family: "OldEnglish";*/
+/*          src:url("fonts/gf-gesetz/GESETZ.TTF") format("truetype");*/
+/*        font-weight: normal;*/
+/*        font-style: normal;*/
+/*}*/
