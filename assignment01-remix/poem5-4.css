@@ -3,24 +3,34 @@
   word-spacing: 1px;
 }
 
-.first-stanza {
+#first-stanza {
   text-align: left;
-  border-left: 20px solid;
+  border-left: 50px solid;
   padding-left: 10px;
 }
 
-.second-stanza {
+#second-stanza {
   text-align: left;
-  border-left: 40px solid;
+  border-left: 100px solid;
   padding-left: 10px;
 }
 
-.third-stanza {
+#third-stanza {
   text-align: left;
-  border-left: 60px solid;
+  border-left: 150px solid;
   padding-left: 10px;
 }
 
 q, blockquote {
   quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+a.nav {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #f1f1f1;
+    color: black;
+    font-family: 'IM Fell English', serif;
+    word-spacing: 1px;
 }

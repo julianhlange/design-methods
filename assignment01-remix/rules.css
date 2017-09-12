@@ -3,16 +3,32 @@
   word-spacing: 1px;
 }
 
-table {
-  width: 100%;
+#by {
+    font-size: smaller;
+    font-style: italic;
 }
 
-td {
-  text-align: center;
-  vertical-align: top;
-  padding: 5%;
-  border: 5px double;
-  border-radius: 5%;
+#author {
+    font-size: smaller;
+}
+
+#larger {
+  font-size: larger;
+  font-style: oblique;
+}
+
+#painting {
+  font-style: italic;
+}
+
+img {
+  width: 35%;
+  float: right;
+  margin-right: 15%;
+}
+
+.poem {
+    margin-left: 5em;
 }
 
 q, blockquote {

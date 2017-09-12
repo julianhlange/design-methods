@@ -22,9 +22,9 @@
 }
 
 img {
-  width: 35%;
+  width: 25%;
   float: right;
-  margin-right: 15%;
+  margin-right: 25%;
 }
 
 .poem {
@@ -33,4 +33,14 @@ img {
 
 q, blockquote {
   quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+a.nav {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #f1f1f1;
+    color: black;
+    font-family: 'IM Fell English', serif;
+    word-spacing: 1px;
 }
