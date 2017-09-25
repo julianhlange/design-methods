@@ -1,11 +1,15 @@
-@font-face {font-family: "OCR-A-Std";
+@font-face {font-family: "OCR A Std";
   src:url("OCR-A-Std.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
+@font-face {
+  font-family: "Libre Barcode 128";
+}
+
 h2, p {
-  font-family: 'OCR-A-Std', serif;
+  font-family: 'OCR A Std', serif;
   text-align: center
 }
 
