@@ -8,3 +8,9 @@ h2, p {
   font-family: 'OCR-A-Std', serif;
   text-align: center
 }
+
+#barcode {
+  font-family: "Libre Barcode 128";
+  font-size: 400%;
+  text-align: center;
+}
